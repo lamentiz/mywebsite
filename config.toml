@@ -1,0 +1,12 @@
+baseURL = "https://lamentiz.github.io/mywebsite/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "PaperMod"
+
+[params]
+  mode = "light" # "dark" da seçebilirsiniz
+  disableBreadcrumb = true
+  disableToc = true
+  showReadingTime = true
+  showShareButtons = true
+  comments = false
